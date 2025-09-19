@@ -26,7 +26,7 @@ int withdraw(int amount, int bal)
 int main()
 {
     // Declaring all needed variables
-    int balance = 0, amount, wtd_amount;
+    int balance = 0, amount;
     char ins;
     // Making a loop that keeps running the program until the user exits
     while (1)
