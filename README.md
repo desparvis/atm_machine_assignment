@@ -11,4 +11,5 @@
 
 - This program also validates inputs to ensure that inputs for withdraw, deposit are valid for the program to be able to perform as expected
 
+- Please compile the **atm.c** file before you can run it
 - **Authors:** Credo Desparvis Gutabarwa
